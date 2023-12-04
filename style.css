@@ -68,7 +68,7 @@ article {
 /* envelope-container contains all elements of the featured component (you can think of it like your canvas area) */
 .envelope-container {
   position: relative; /* needed to allow for positioning some elements as absolute within the container */
-  height: 450px;
+  height: 300px;
   width: 350px;
 }
 .envelope-base {
