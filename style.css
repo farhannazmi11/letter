@@ -61,6 +61,8 @@ article {
 }
 .message-2 {
   display: none;
+  text-align: center;
+  margin-top: 40px;
 }
 
 /* ENVELOPE */
@@ -85,7 +87,7 @@ article {
 .envelope-flap {
   position: absolute;
   bottom: 50px;
-  height: 200px;
+  height: 350px;
   width: 100%;
   z-index: 10;
 }
