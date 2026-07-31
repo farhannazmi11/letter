@@ -60,8 +60,21 @@ article {
   margin-top: 40px;
 }
 .message-2 {
+  position: absolute;
+  top: -170px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 320px;
   text-align: center;
-  margin-top: 40px;
+  z-index: 5;
+}
+.message-2 p {
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+}
+.message-3 {
+  display: None
 }
 
 /* ENVELOPE */
