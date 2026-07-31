@@ -62,6 +62,11 @@ article {
 .message-2 {
   display: none;
 }
+.message-3 {
+  text-align: center;
+  margin-top: 40px;
+  display: none;
+}
 
 /* ENVELOPE */
 
