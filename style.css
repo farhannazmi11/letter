@@ -67,6 +67,7 @@ article {
   width: 320px;
   text-align: center;
   z-index: 5;
+  display: None;
 }
 .message-2 p {
   font-size: 14px;
